@@ -1,0 +1,23 @@
+[
+  {
+    "prompt_id": "2026-07-28T04-35-46-910Z-t2mbwh",
+    "wechat_title": "北欧扁平插画风的地标旅行海报",
+    "content": "Portrait:\nEditorial travel poster illustration of [DESTINATION], flat vector art, ultra-clean minimalism, mid-century modern, Scandinavian graphic design, iconic landmark as the main focal point, elegant simplified architecture, stylized foreground with a promenade, street, waterfront, plants, small visitor silhouettes and subtle local details, midground featuring the landmark and recognizable elements of the destination, background with a simplified city skyline or natural horizon, balanced vertical composition, muted pastel palette, sophisticated teal, verdigris, slate blue, pale seafoam and cool porcelain off-white, flat color blocking, tonal harmony, low contrast, soft diffused daylight, subtle tinted shadows, clean geometric shapes, refined editorial illustration, nostalgic vintage tourism-poster aesthetic, spacious composition, premium graphic design, print-ready poster, large spaced sans-serif typography “[DESTINATION]” at bottom center, small location text beneath, –ar 3:4 –v 8.2 –style raw –stylize 150 –chaos 4 –no yellow, cream, ivory, beige, sepia, gold, gradient, texture, noise, grain, photorealism, neon, saturated primaries, black",
+    "keywords": [
+      "扁平插画",
+      "北欧极简",
+      "复古旅游海报",
+      "地标构图",
+      "低饱和粉彩"
+    ],
+    "image": "images/prompt/2026-07-28T04-35-37-262Z-ljpan9-1.png",
+    "images": [
+      "images/prompt/2026-07-28T04-35-37-262Z-ljpan9-0.png",
+      "images/prompt/2026-07-28T04-35-37-262Z-ljpan9-1.png",
+      "images/prompt/2026-07-28T04-35-37-262Z-ljpan9-2.png"
+    ],
+    "image_count": 3,
+    "reply_keyword": "地标色块",
+    "savedAt": "2026-07-28T04:35:46.910Z"
+  }
+]

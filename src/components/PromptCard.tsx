@@ -1,0 +1,144 @@
+import { useState, type MouseEvent } from 'react'
+import { promptImageCount, promptMonth, type PromptItem } from '../types/prompt'
+import { copyText } from '../utils/copy'
+import { countSignalBars } from '../utils/countTier'
+import { formatMonthLabel } from './MonthFilter'
+import { PromptCover } from './PromptCover'
+
+interface Props {
+  prompt: PromptItem
+  onOpenDetail: (prompt: PromptItem) => void
+  selectMode?: boolean
+  selected?: boolean
+  onToggleSelect?: (prompt: PromptItem) => void
+}
+
+const BAR_INDEXES = [1, 2, 3, 4] as const
+
+export function PromptCard({
+  prompt,
+  onOpenDetail,
+  selectMode = false,
+  selected = false,
+  onToggleSelect,
+}: Props) {
+  const [copied, setCopied] = useState(false)
+  const monthYm = promptMonth(prompt)
+  const monthLabel = monthYm ? formatMonthLabel(monthYm) : null
+  const imgCount = promptImageCount(prompt)
+  const litBars = imgCount > 0 ? countSignalBars(imgCount) : 0
+
+  const handleCopy = async (e: MouseEvent) => {
+    e.stopPropagation()
+    const ok = await copyText(prompt.content)
+    if (ok) {
+      setCopied(true)
+      window.setTimeout(() => setCopied(false), 1400)
+    }
+  }
+
+  const handleSelectToggle = (e: MouseEvent) => {
+    e.stopPropagation()
+    onToggleSelect?.(prompt)
+  }
+
+  const handlePrimaryClick = () => {
+    if (selectMode) {
+      onToggleSelect?.(prompt)
+      return
+    }
+    onOpenDetail(prompt)
+  }
+
+  return (
+    <article
+      className={`prompt-card${
+        selectMode && selected ? ' is-selected' : ''
+      }${selectMode ? ' select-mode' : ''}`}
+    >
+      {selectMode && (
+        <label
+          className="card-select-check"
+          title={selected ? '取消选择' : '选择'}
+          onClick={handleSelectToggle}
+        >
+          <input
+            type="checkbox"
+            checked={selected}
+            readOnly
+            aria-label={selected ? '取消选择' : '选择此提示词'}
+          />
+        </label>
+      )}
+
+      <PromptCover
+        promptId={prompt.prompt_id}
+        image={prompt.image}
+        images={prompt.images}
+        imageCount={prompt.image_count}
+        onClick={handlePrimaryClick}
+        hideBadge
+      />
+
+      <div
+        className="card-meta"
+        role={selectMode ? 'button' : undefined}
+        tabIndex={selectMode ? 0 : undefined}
+        onClick={selectMode ? handlePrimaryClick : undefined}
+        onKeyDown={
+          selectMode
+            ? (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault()
+                  handlePrimaryClick()
+                }
+              }
+            : undefined
+        }
+      >
+        {monthLabel && monthYm ? (
+          <time className="card-month" dateTime={monthYm}>
+            {monthLabel}
+          </time>
+        ) : (
+          <span className="card-month card-month--empty" aria-hidden>
+            —
+          </span>
+        )}
+        <div className="card-meta-right">
+          {imgCount > 0 && (
+            <span
+              className="card-count"
+              title={`${imgCount} 张效果图`}
+              aria-label={`${imgCount} 张效果图`}
+            >
+              <span className="card-count-bars" aria-hidden>
+                {BAR_INDEXES.map((i) => (
+                  <span
+                    key={i}
+                    className={`card-count-bar${i <= litBars ? ' is-on' : ''}`}
+                    style={{ ['--bar-i' as string]: i }}
+                  />
+                ))}
+              </span>
+              <span className="card-count-num">{imgCount}张</span>
+            </span>
+          )}
+          {!selectMode && (
+            <div className="card-meta-actions">
+              <button
+                type="button"
+                className={`card-meta-btn${copied ? ' ok' : ''}`}
+                title={copied ? '已复制' : '复制提示词'}
+                aria-label="复制提示词"
+                onClick={(e) => void handleCopy(e)}
+              >
+                {copied ? '✓' : '⧉'}
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+    </article>
+  )
+}

@@ -1,5 +1,27 @@
 [
   {
+    "prompt_id": "2026-06-04T09-59-46-483Z-45g0ym",
+    "wechat_title": "用线条和留白，画出一张高级封面",
+    "content": "一张极简主义现代杂志风格插画，主体为[xxx]。画面以干净流畅的线条塑造形象，造型简洁但富有美感，背景保留大面积留白，配色以柔和中性色为主，并加入少量鲜艳色彩作为视觉焦点。整体构图精致平衡，氛围优雅清新，具有高级杂志插画与现代艺术海报质感，无文字。",
+    "keywords": [
+      "极简线条",
+      "杂志排版",
+      "留白构图",
+      "雅致中性色",
+      "现代海报"
+    ],
+    "image": "images/prompt/2026-06-04T09-59-38-715Z-8j4amz-3.png",
+    "images": [
+      "images/prompt/2026-06-04T09-59-38-715Z-8j4amz-0.png",
+      "images/prompt/2026-06-04T09-59-38-715Z-8j4amz-1.png",
+      "images/prompt/2026-06-04T09-59-38-715Z-8j4amz-2.png",
+      "images/prompt/2026-06-04T09-59-38-715Z-8j4amz-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "留白插画",
+    "savedAt": "2026-06-04T09:59:46.483Z"
+  },
+  {
     "prompt_id": "2026-07-28T04-35-46-910Z-t2mbwh",
     "wechat_title": "北欧扁平插画风的地标旅行海报",
     "content": "Portrait:\nEditorial travel poster illustration of [DESTINATION], flat vector art, ultra-clean minimalism, mid-century modern, Scandinavian graphic design, iconic landmark as the main focal point, elegant simplified architecture, stylized foreground with a promenade, street, waterfront, plants, small visitor silhouettes and subtle local details, midground featuring the landmark and recognizable elements of the destination, background with a simplified city skyline or natural horizon, balanced vertical composition, muted pastel palette, sophisticated teal, verdigris, slate blue, pale seafoam and cool porcelain off-white, flat color blocking, tonal harmony, low contrast, soft diffused daylight, subtle tinted shadows, clean geometric shapes, refined editorial illustration, nostalgic vintage tourism-poster aesthetic, spacious composition, premium graphic design, print-ready poster, large spaced sans-serif typography “[DESTINATION]” at bottom center, small location text beneath, –ar 3:4 –v 8.2 –style raw –stylize 150 –chaos 4 –no yellow, cream, ivory, beige, sepia, gold, gradient, texture, noise, grain, photorealism, neon, saturated primaries, black",
@@ -19,5 +41,244 @@
     "image_count": 3,
     "reply_keyword": "地标色块",
     "savedAt": "2026-07-28T04:35:46.910Z"
+  },
+  {
+    "prompt_id": "2026-08-05T01-29-08-916Z-gmat1i",
+    "wechat_title": "浮世绘水墨剪纸，火影女角太惊艳",
+    "content": "风格炼金术：国画水墨写意 + 葛饰北斋 + 浮世绘 + 极繁主义 + 宫廷剪纸\nNARUTO girls～ \n---\n请使用下面的prompt生成8张独立的图片（注意，不是多张图片collage到一张里，而是8张独立的图片）   比例：9:16     人物：random adult female character from {NARUTO}     主题：人物海报     风格：{国画水墨写意 + 葛饰北斋 + 浮世绘 + 极繁主义 + 宫廷剪纸}    安全约束：请不要出现肢体瑕疵（比如手指脚趾缺失等问题）",
+    "keywords": [
+      "火影忍者",
+      "浮世绘",
+      "水墨写意",
+      "宫廷剪纸",
+      "极繁设计"
+    ],
+    "image": "images/prompt/2026-08-05T01-28-59-686Z-0ec0en-1.png",
+    "images": [
+      "images/prompt/2026-08-05T01-28-59-686Z-0ec0en-0.png",
+      "images/prompt/2026-08-05T01-28-59-686Z-0ec0en-1.png",
+      "images/prompt/2026-08-05T01-28-59-686Z-0ec0en-2.png",
+      "images/prompt/2026-08-05T01-28-59-686Z-0ec0en-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "浮世火影",
+    "savedAt": "2026-08-05T01:29:08.916Z"
+  },
+  {
+    "prompt_id": "2026-08-05T04-37-46-536Z-3rf91j",
+    "wechat_title": "落日沙滩轻握鸡蛋花写真",
+    "content": "3:4 竖版，照片级真实时尚海边人像摄影，热带海岛白沙滩，碧蓝海水与浅青色海浪轻拍岸边，晴朗蓝天点缀少量柔软白云，Golden Hour 傍晚暖阳，空气清澈通透，轻微海风吹拂，整体低饱和、低对比、高级电影感。\n\n一位明确成年的虚构东亚女性，约22–26岁，修长匀称身材，自然纤细腰线，真实健康比例。精致鹅蛋脸，柔和下颌线，深棕色杏仁眼，挺直鼻梁，自然微笑，眼神温暖放松，嘴角轻轻扬起。自然裸妆，半哑光底妆，浅蜜桃色腮红，暖棕眼影，细致睫毛，裸粉色唇妆。保留真实皮肤纹理、毛孔、细小绒毛与自然肤色变化，真实 Subsurface Scattering，柔和微高光，无塑料皮肤。\n\n黑色长发自然披散，海风轻轻吹起发丝，少量碎发贴近脸颊，发尾自然凌乱，具有真实风吹动态。\n\n穿浅米白、浅蓝与浅棕植物印花交叉挂脖比基尼上衣，布料自然打结包裹；搭配同系列侧绑结比基尼下装，轻盈棉麻质感，整体具有度假风。右手自然抬起轻拨头发，左手轻握一朵粉白渐变鸡蛋花（Plumeria），姿态轻松自然，身体微微转向画面左侧，面向远方阳光，呈现享受海风的瞬间。\n\n背景为洁白细腻沙滩、层次分明的蓝绿色海面、轻柔浪花、远处海平线和晴朗天空，背景适度虚化，突出人物主体。\n\n摄影风格：Sony A7R V，85mm GM 人像镜头，f/2.0，ISO100，1/1600s，自然光拍摄，无补光灯，浅景深，焦点精准落在眼睛，背景形成柔和奶油散景。暖金色侧逆光勾勒头发与肩部轮廓，肌肤具有自然暖色反射。\n\n超真实摄影，时尚 Editorial，旅行杂志封面风格，真实布料纹理、沙粒细节、海浪泡沫、水面反射、轻微胶片颗粒、自然色彩过渡，高动态范围，无AI感，无CG感，无过度锐化，无过度磨皮，无畸形手部，无额外手指，无文字、Logo、水印、边框。",
+    "keywords": [
+      "人像摄影",
+      "金色逆光",
+      "比基尼",
+      "鸡蛋花",
+      "旅行杂志风"
+    ],
+    "image": "images/prompt/2026-08-05T04-37-28-408Z-6p51uv-3.png",
+    "images": [
+      "images/prompt/2026-08-05T04-37-28-408Z-6p51uv-0.png",
+      "images/prompt/2026-08-05T04-37-28-408Z-6p51uv-1.png",
+      "images/prompt/2026-08-05T04-37-28-408Z-6p51uv-2.png",
+      "images/prompt/2026-08-05T04-37-28-408Z-6p51uv-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "鸡蛋花",
+    "savedAt": "2026-08-05T04:37:46.536Z"
+  },
+  {
+    "prompt_id": "2026-09-08T01-08-20-007Z-30noy5",
+    "wechat_title": "粉彩手绘人像，温柔自带画笔感",
+    "content": "Transform the uploaded photograph into a hand-painted pastel portrait illustration while using the uploaded image as the primary reference for the person, pose, expression, hairstyle and recognizable identity.\n\nIMPORTANT:\nThis is a STYLE TRANSFORMATION of the uploaded photograph.\n\nPreserve the recognizable subject from the source image:\n- identity and distinguishing facial characteristics\n- general face shape and facial relationships\n- head angle\n- gaze direction\n- facial expression\n- mouth state and expression\n- hairstyle\n- hair direction and important loose strands\n- pose\n- shoulder orientation\n- visible clothing type\n- important personal facial marks such as moles or freckles when visible\n\nDo not replace the person with a generic attractive character.\nDo not substantially change age, ethnicity, gender presentation, hairstyle or expression.\nDo not beautify or reconstruct the face into a different person.\n\nSTYLE:\n\nRender the portrait as a charming contemporary hand-painted editorial illustration using a mixture of digital gouache, dry pastel, soft colored pencil and slightly chalky brushwork.\n\nThe result should clearly look illustrated rather than photographic.\n\nUse:\n- matte painted surfaces\n- visible dry-brush grain\n- slightly rough handmade edges\n- irregular brush strokes\n- subtle pigment variation\n- sparse pencil-like detail\n- imperfect organic linework\n- gentle asymmetry\n- simplified graphic shapes\n\nThe drawing should feel warm, spontaneous, soft and handmade.\n\nAvoid perfectly smooth digital rendering.\n\nFACIAL INTERPRETATION:\n\nTranslate the real face into a simplified expressive painted portrait.\n\nPreserve the person's identity, expression and characteristic facial relationships, but simplify small anatomical and photographic details.\n\nUse mild expressive caricature only:\n- make the eyes slightly larger and clearer than in the photograph\n- retain the original eye direction and expression\n- gently simplify and soften the face contour\n- preserve recognizable spacing between eyes, nose and mouth\n- preserve characteristic facial marks\n- do not radically change facial proportions\n\nThe result should remain recognizably the same person.\n\nEYES:\n\nRender the eyes as simple expressive hand-painted shapes.\n\nUse:\n- slightly enlarged rounded eyes\n- warm off-white sclera\n- very dark brown or near-black pupils\n- one or two tiny natural painted highlights\n- irregular dark upper lash lines\n- softly painted eyelashes\n- minimal iris detail\n- subtle peach or coral eyelid accents\n\nKeep the eyes lively and expressive but NOT anime-like.\n\nDo not create giant anime eyes.\nDo not create perfectly symmetrical vector eyes.\nDo not render photorealistic irises.\n\nEYEBROWS:\n\nSimplify the eyebrows into thick, textured dark-brown brush strokes.\n\nRetain their original position and general shape.\n\nAllow individual rough strokes and uneven pigment rather than clean graphic curves.\n\nNOSE:\n\nSimplify the nose strongly.\n\nRepresent it mainly with a soft warm peach-orange painted shape rather than realistic anatomical modeling.\n\nKeep the bridge subtle.\n\nUse very little contouring.\n\nRepresent the nostrils with minimal small dark-brown painted marks.\n\nAvoid a realistic sculpted or heavily shaded nose.\n\nMOUTH:\n\nPreserve the exact emotional character and open/closed state of the mouth from the source photograph.\n\nRender the lips as simplified matte coral-red or salmon-red painted shapes.\n\nIf the mouth is open:\n- simplify the mouth interior into a deep warm burgundy-brown shape\n- show teeth only when naturally visible\n- reduce unnecessary anatomical detail\n- retain the original expression\n\nUse slightly irregular painted edges rather than clean vector outlines.\n\nSKIN:\n\nConvert photographic skin into smooth, luminous, matte painted skin.\n\nUse a warm light ivory-peach / pale apricot base.\n\nRemove:\n- pores\n- photographic microtexture\n- shine\n- harsh realistic shadows\n- fine skin noise\n\nRetain enough facial shape to preserve identity.\n\nAdd only restrained painterly color variation:\n- soft salmon-pink blush on the cheeks\n- subtle warm peach around the nose\n- faint peach-pink around the eyelids\n- gentle warm shading below the jaw or around the neck when necessary\n\nKeep shading broad, soft and minimal.\n\nDo not use glossy skin.\nDo not use realistic skin texture.\nDo not create plastic 3D skin.\nDo not make the face completely flat like vector art.\n\nHAIR:\n\nPreserve the hairstyle, parting, silhouette and important loose strands from the uploaded photograph.\n\nPaint the hair using warm chocolate brown, espresso brown and deep reddish-brown rather than neutral solid black.\n\nBuild the main hairstyle from broad opaque painted masses.\n\nOverlay selected areas with rough thin dry-brush and colored-pencil strokes.\n\nLoose strands and flyaway hairs should appear as scratchy, spontaneous handmade lines.\n\nHair edges should remain slightly irregular and painterly.\n\nDo not render glossy photorealistic hair.\nDo not turn the hairstyle into a smooth anime helmet shape.\n\nCLOTHING:\n\nPreserve the recognizable clothing and its basic shape.\n\nSimplify fabric substantially.\n\nFor white clothing, use warm ivory and soft off-white rather than sterile digital white.\n\nRepresent folds with only a few pale gray-beige or warm shadow brush marks.\n\nKeep clothing lower-detail than the face and hair.\n\nBACKGROUND:\n\nRemove the original photographic environment.\n\nReplace it with a simple uninterrupted pastel powder-blue / pale sky-blue painted background.\n\nUse approximately the visual family of:\nsoft baby blue,\npowder blue,\nlight cyan-blue.\n\nThe background should be mostly flat but may contain extremely subtle natural brush or pigment variation.\n\nDo not include:\n- furniture\n- architecture\n- scenery\n- room details\n- decorative patterns\n- text\n- symbols\n- gradients that look digitally generated\n- photographic depth of field\n\nCOMPOSITION:\n\nPrioritize the person.\n\nCreate a clean portrait composition similar to an illustrated profile portrait.\n\nKeep the source head angle, expression and body orientation.\n\nA modest portrait-oriented crop or enlargement is allowed when needed to make the head and upper torso the dominant visual subject.\n\nDo not arbitrarily change the pose.\n\nTEXTURE:\n\nThe finished image should contain visible but restrained handmade texture.\n\nEspecially use:\n- dry gouache texture\n- chalky pastel grain\n- colored-pencil-like hair strokes\n- rough brush boundaries\n- slight variations in pigment opacity\n\nThe texture must feel intentionally handmade but clean.\n\nDo not add heavy paper noise across the entire image.\n\nCOLOR PALETTE:\n\nUse a limited soft pastel palette:\n\nbackground:\npowder sky blue\n\nskin:\nlight ivory peach,\npale apricot\n\nblush:\nsoft salmon pink\n\nnose:\nwarm peach-orange\n\nlips:\ncoral red / salmon red\n\nmouth interior:\ndeep reddish brown / burgundy brown\n\nhair:\nwarm chocolate brown / espresso brown\n\neyes and eyelashes:\nvery dark warm brown\n\nclothing:\nwarm ivory / creamy off-white where appropriate\n\nKeep colors bright, matte, warm and harmonious.\n\nRENDERING PRIORITY:\n\n1. recognizable identity\n2. original expression\n3. original hairstyle and loose hair gesture\n4. expressive eyes and mouth\n5. simplified facial anatomy\n6. characteristic pastel color palette\n7. handmade dry-brush texture\n8. clean pale-blue background\n\nAVOID:\n\nphotorealism,\nsemi-realistic AI portrait painting,\n3D rendering,\nPixar-like rendering,\nanime,\nmanga,\ncel shading,\nvector illustration,\nclean geometric outlines,\ncomic-book ink outlines,\nhyper-detailed skin,\nrealistic pores,\nglossy skin,\nrealistic hair strands everywhere,\nheavy cinematic lighting,\ndramatic shadows,\nhigh contrast,\nneon colors,\ndark background,\ncomplex scenery,\nexcessive detail,\nperfect symmetry,\nplastic smooth gradients,\nbeautification,\nface reshaping,\ngeneric doll-like faces.\n\nFINAL RESULT:\n\nA recognizable transformation of the uploaded person into a warm, playful, hand-painted pastel portrait illustration: powder-blue background, luminous peach skin, coral facial accents, chocolate-brown textured hair, simplified expressive facial features, slightly enlarged lively eyes, minimal nose modeling, matte color, rough dry-brush edges and subtle colored-pencil texture.\n\nThe final image should feel like an original hand-painted lifestyle/editorial portrait rather than a filter applied to a photograph.",
+    "keywords": [
+      "粉彩绘画",
+      "数字水粉",
+      "手绘人像",
+      "纸张颗粒",
+      "编辑插画"
+    ],
+    "image": "images/prompt/2026-09-08T01-08-20-007Z-30noy5-1.png",
+    "images": [
+      "images/prompt/2026-09-08T01-08-20-007Z-30noy5-0.png",
+      "images/prompt/2026-09-08T01-08-20-007Z-30noy5-1.png"
+    ],
+    "image_count": 2,
+    "reply_keyword": "粉彩人像",
+    "savedAt": "2026-09-08T01:08:27.071Z"
+  },
+  {
+    "prompt_id": "2026-09-14T01-22-55-722Z-0q7rqo",
+    "wechat_title": "日式几何复古旅行海报",
+    "content": "Create a premium retro-modern Japanese geometric travel poster for [CITY, COUNTRY] in a STRICT 4:5 VERTICAL ASPECT RATIO.\n\nUse a sophisticated flat-vector, mid-century Japanese travel-poster aesthetic with bold geometric shapes, elegant editorial composition, simplified architecture, and strong visual storytelling. Automatically identify and feature the most iconic landmark, architecture, streets, transportation, landscape, cultural elements, and atmosphere of [CITY, COUNTRY] in one cohesive original scene.\n\nCreate clear foreground, middle ground, and background depth with one dominant focal point, strong perspective, geometric streets, architectural silhouettes, simplified vegetation, atmospheric sky, and minimal human figures for scale.\n\nUse a limited retro palette of deep navy, indigo, teal, turquoise, warm cream, mustard, ochre, coral, vermillion, and forest green, with strong color blocking and dramatic graphic lighting. Use geometric shadows and highlights rather than realistic lighting or complex gradients.\n\nAdd subtle vintage paper grain, screen-print texture, slight ink variation, and restrained halftone detail for an authentic printed-poster finish.\n\nKeep landmarks and cultural elements recognizable yet artistically simplified, with clean shapes, crisp edges, balanced composition, controlled perspective, and strong readability from a distance.\n\nAvoid: photorealism, 3D rendering, glossy surfaces, excessive detail, complex gradients, neon colors, clutter, heavy grunge, excessive outlines, bokeh, lens flare, distorted architecture, warped perspective, random objects, illegible text, and generic AI-art appearance.\n\nFINAL LOOK: Museum-quality collectible Japanese tourism poster—bold, elegant, atmospheric, culturally distinctive, cohesive, and professionally designed.\n\nIMPORTANT: Strictly maintain the 4:5 vertical composition. Create a completely original artwork specifically adapted to [CITY, COUNTRY]. Do not copy any existing artwork.",
+    "keywords": [
+      "日式旅行海报",
+      "中古几何",
+      "平涂矢量",
+      "丝网印刷质感",
+      "色彩分块"
+    ],
+    "image": "images/prompt/2026-09-14T01-22-55-722Z-0q7rqo-2.png",
+    "images": [
+      "images/prompt/2026-09-14T01-22-55-722Z-0q7rqo-0.png",
+      "images/prompt/2026-09-14T01-22-55-722Z-0q7rqo-1.png",
+      "images/prompt/2026-09-14T01-22-55-722Z-0q7rqo-2.png",
+      "images/prompt/2026-09-14T01-22-55-722Z-0q7rqo-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "日式几何",
+    "savedAt": "2026-09-14T01:24:19.905Z"
+  },
+  {
+    "prompt_id": "2026-09-23T11-24-47-088Z-oqnwe5",
+    "wechat_title": "极简艺术书风的城市旅行海报",
+    "content": "DESTINATION: [DESTINATION]\n\nCreate a premium 3:4 vertical editorial travel poster for [DESTINATION].\n\nSTYLE\nContemporary art-book aesthetic with subtle vintage influence — sophisticated, architectural, minimal, and collectible. Think premium gallery print or high-end international travel magazine rather than a conventional tourist poster.\n\nCOMPOSITION\nUse a pure white background with generous negative space. Place the destination name prominently at the top in bold geometric typography, with the country name beneath it in smaller type. Add one subtle graphic element such as a sun, moon, horizon, or mountain silhouette.\n\nThe lower 55–60% should contain one cohesive illustrated scene featuring 1–2 iconic landmarks, one defining natural or geographic feature, and a few authentic local details. Integrate everything naturally into a single believable composition rather than creating a landmark collage.\n\nCOLOR\nKeep pure white dominant and use only 2–4 sophisticated destination-inspired colors, preferably muted tones with one restrained accent. Avoid excessive saturation, neon colors, dramatic orange sunsets, or overly nostalgic palettes.\n\nART DIRECTION\nCrisp editorial illustration, elegant silhouettes, clean geometry, refined screen-print texture, subtle grain, controlled detail, and strong visual hierarchy. Illustrated and artistic rather than photorealistic.\n\nDETAILS\nInclude minimal authentic local-language typography and small geographic coordinates where appropriate. Avoid fake architecture, excessive signage, decorative clutter, tourist clichés, gradients, 3D rendering, cartoon styling, and unnecessary text.\n\nFINAL LOOK\nA timeless, culturally specific, beautifully restrained destination poster that feels like part of a premium global collection of collectible city and travel prints.",
+    "keywords": [
+      "编辑插画",
+      "极简排版",
+      "地标剪影",
+      "丝网质感",
+      "大量留白"
+    ],
+    "image": "images/prompt/2026-09-23T11-24-47-088Z-oqnwe5-0.png",
+    "images": [
+      "images/prompt/2026-09-23T11-24-47-088Z-oqnwe5-0.png",
+      "images/prompt/2026-09-23T11-24-47-088Z-oqnwe5-1.png",
+      "images/prompt/2026-09-23T11-24-47-088Z-oqnwe5-2.png",
+      "images/prompt/2026-09-23T11-24-47-088Z-oqnwe5-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "艺术书海报",
+    "savedAt": "2026-09-23T11:24:54.129Z"
+  },
+  {
+    "prompt_id": "2026-09-26T06-05-30-666Z-fpeec1",
+    "wechat_title": "炭笔手绘的复古旅行故事书插画",
+    "content": "Prompt:\nCreate a premium 4:5 vertical vintage hand-drawn travel storybook illustration for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCONCEPT\nCreate a nostalgic imagined travel memory inspired by 1950s–1960s European city storybooks. It should feel like a warmly remembered journey rather than a map, postcard, or literal architectural study.\n\nSCENE\nAutomatically select:\n• 1 unmistakable primary landmark, slightly off-center\n• 1 secondary local landmark\n• 1 smaller distant partially hidden landmark\n• 1 authentic local transportation vehicle\n• 3–5 charming everyday environmental details\n• 5–6 ordinary local residents naturally performing simple daily activities\n\nCompress everything into one whimsical imagined street scene while keeping the landmarks recognizable and geographically believable.\n\nDRAWING STYLE\nUse loose charcoal and deep navy ink lines with trembling contours, slightly crooked architecture, sparse windows, simplified silhouettes, and minimal linework. Embrace charming imperfections, awkward proportions, handmade marks, and subtle visual humor.\n\nCHARACTERS\nDraw ordinary local people with oversized heads, thin legs, narrow bodies, tiny faces, slightly crooked accessories, and simple readable gestures. Show authentic everyday life rather than celebrities, heroic poses, or staged characters.\n\nCOLOR & MATERIAL\nUse a restrained palette of 6–7 colors naturally associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Apply muted gouache-like flat color with uneven brush edges, tiny unpainted gaps, slight registration misalignment, and visible handmade imperfections. Leave large areas of the sky almost completely uncolored so the warm paper remains visible.\n\nFINAL AESTHETIC\nNostalgic European travel storybook × loose charcoal sketch × navy ink drawing × muted gouache × naïve handmade illustration × warm everyday city life.\n\nThe artwork should feel imperfect, gentle, witty, intimate, and beautifully handmade rather than polished or digitally precise.\n\nTYPOGRAPHY\nAdd only the exact location name of [COUNTRY / CITY / LOCATION / SUBJECT] as a small handwritten caption at the bottom.\n\nAvoid photorealism, precise cartography, aerial views, gradients, 3D rendering, realistic photography, polished vector art, hyper-detailed watercolor, excessive linework, heavy vintage effects, clutter, logos, watermarks, or modern graphic-design styling.\n\nFORMAT: 4:5 vertical, single unified illustration, generous negative space.",
+    "keywords": [
+      "旅行故事书",
+      "炭笔速写",
+      "藏青墨线",
+      "哑光水粉",
+      "牛皮纸留白"
+    ],
+    "image": "images/prompt/2026-09-26T06-05-30-666Z-fpeec1-0.png",
+    "images": [
+      "images/prompt/2026-09-26T06-05-30-666Z-fpeec1-0.png",
+      "images/prompt/2026-09-26T06-05-30-666Z-fpeec1-1.png",
+      "images/prompt/2026-09-26T06-05-30-666Z-fpeec1-2.png",
+      "images/prompt/2026-09-26T06-05-30-666Z-fpeec1-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "炭笔旅行",
+    "savedAt": "2026-09-26T06:07:36.278Z"
+  },
+  {
+    "prompt_id": "2026-09-27T05-58-30-831Z-t71sn0",
+    "wechat_title": "手绘旅行手账风城市速写",
+    "content": "Hand-drawn travel journal illustration in a refined ink-and-watercolor sketch style, vintage travel postcard aesthetic, textured cream paper background, expressive cobalt blue fineliner linework with warm ochre, muted olive green and soft terracotta watercolor washes, loose architectural sketches, minimalist urban scenery, elegant handwritten typography at the top with large destination title and smaller cursive subtitle, cozy travel diary composition, charming lifestyle illustration, stylish young traveler in relaxed casual clothing, cinematic composition, clean negative space, subtle cross-hatching, soft brush pen strokes, editorial magazine cover design, modern gouache and watercolor fusion, imperfect hand-drawn charm, warm nostalgic atmosphere, European sketchbook aesthetic, Moleskine travel journal, whimsical urban storytelling, premium illustrated poster, highly detailed, balanced composition, soft paper grain, natural ink bleed, sophisticated color harmony, artistic travel print, 4K, museum-quality illustration.\n",
+    "keywords": [
+      "钢笔淡彩",
+      "旅行手账",
+      "复古明信片",
+      "建筑速写",
+      "靛蓝线条"
+    ],
+    "image": "images/prompt/2026-09-27T05-58-30-831Z-t71sn0-0.png",
+    "images": [
+      "images/prompt/2026-09-27T05-58-30-831Z-t71sn0-0.png",
+      "images/prompt/2026-09-27T05-58-30-831Z-t71sn0-1.png",
+      "images/prompt/2026-09-27T05-58-30-831Z-t71sn0-2.png",
+      "images/prompt/2026-09-27T05-58-30-831Z-t71sn0-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "旅行手账4",
+    "savedAt": "2026-09-27T05:58:30.831Z"
+  },
+  {
+    "prompt_id": "2026-09-28T01-06-16-522Z-a6vzvf",
+    "wechat_title": "1950年代复古游记手绘城市速写",
+    "content": "Create a premium 4:5 vertical vintage hand-drawn travel storybook illustration for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nImagine [COUNTRY / CITY / LOCATION / SUBJECT] as a softly misremembered travel memory inspired by 1950s–1960s European city storybooks. Create one whimsical imagined street where the destination's real identity remains recognizable, but everything feels gently imperfect, intimate, and nostalgic rather than geographically precise.\n\nSCENE\nAutomatically choose one iconic primary landmark as the main focal point, one secondary landmark, and one smaller distant landmark partially hidden in the background. Add one authentic local vehicle, several tiny everyday environmental details, and 5–6 ordinary local residents casually performing simple daily activities.\n\nCompress everything naturally into the same imagined street scene with layered depth and a charming sense of discovery.\n\nDRAWING STYLE\nUse loose charcoal and deep navy ink with trembling hand-drawn contours, slightly crooked architecture, sparse windows, simplified silhouettes, minimal expressive lines, and imperfect handmade proportions. Characters should have oversized heads, thin legs, narrow bodies, tiny faces, slightly crooked accessories, and simple readable gestures.\n\nCOLOR\nUse a restrained palette of only 6–7 colors inspired by the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Apply muted matte gouache in flat areas with uneven brush edges, tiny unpainted gaps, subtle registration shifts, and visible handmade imperfections. Leave large portions of the sky as untouched warm paper.\n\nFINAL AESTHETIC\nNaïve European travel storybook × loose charcoal sketch × navy ink × muted gouache × nostalgic city memory × handmade editorial illustration.\n\nThe artwork should feel warm, awkward, poetic, quietly humorous, and authentically handmade—not polished or digitally perfect.\n\nAdd only a small handwritten caption at the bottom containing the name of [COUNTRY / CITY / LOCATION / SUBJECT].\n\nAvoid photorealism, precise mapping, aerial views, gradients, 3D rendering, polished vector art, hyper-detailed watercolor, realistic faces, excessive linework, heavy distressed effects, clutter, logos, watermarks, or modern graphic design.\n\nFORMAT: 4:5 vertical, single unified illustration, generous paper/sky negative space.",
+    "keywords": [
+      "复古绘本",
+      "旅行速写",
+      "炭笔线稿",
+      "哑光水粉",
+      "怀旧城市记忆"
+    ],
+    "image": "images/prompt/2026-09-28T01-06-16-522Z-a6vzvf-0.png",
+    "images": [
+      "images/prompt/2026-09-28T01-06-16-522Z-a6vzvf-0.png",
+      "images/prompt/2026-09-28T01-06-16-522Z-a6vzvf-1.png",
+      "images/prompt/2026-09-28T01-06-16-522Z-a6vzvf-2.png",
+      "images/prompt/2026-09-28T01-06-16-522Z-a6vzvf-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "复古游记1",
+    "savedAt": "2026-09-28T01:06:16.522Z"
+  },
+  {
+    "prompt_id": "2026-11-07T07-04-38-343Z-p4p6b8",
+    "wechat_title": "照片变身彩色玻璃窗，明亮又通透",
+    "content": "prompt：\n请将我上传的每一张照片分别制作成一张独立的高级设计海报，不多图拼接，每张照片单独输出。整体采用3:4竖版构图，上下两个区域高度严格1:1，各占画面50%。\n\n上半部分保留原始照片，保持主体身份、结构、姿态、真实质感、自然光影和原有色彩氛围，仅进行轻微高级调色，使其具有艺术杂志、独立出版物与展览图像质感。为适配画幅，可自然扩展环境背景，但不得拉伸、扭曲或改变主体。上半部分只放上传的照片本身，沿用原有取景，不添加任何文字、边框或图形。\n\n下半部分提取照片中最具识别性的场景、构图与景物位置，重构为一扇彩色玻璃窗：整张景被铅条分隔成一块块平涂的彩色玻璃，天空、远山、水面、屋顶、树等各占一块或几块，位置、大小和轮廓与照片里一一对应，背后透着光。不要写实，不画细节，只用玻璃块的形状和颜色来表达。\n\n构图遵循“一扇窗、一整幅景”：玻璃窗占满下半部分，四周是一圈深色的窗框，窗框外留出一小圈极浅的奶白纸边；景物的上下左右位置完全照着原照片安排，视觉重心也相同；铅条是深灰近黑的细线，每块玻璃有大有小，大块用于天空和水，小块用于屋顶、树和建筑；全画控制在两三百块玻璃以内，不要碎成粉末。\n\n配色从上方照片中提取六到八种颜色，每种都转成通透、饱和的玻璃色；同一类景物用同色系的深浅区分（如天空用几种蓝，水面用几种青）；光从背后透过，玻璃块的亮部带一点暖光，整体明亮。\n\n材质是真实的彩色玻璃：玻璃块带轻微的气泡、波纹和不均匀的透光，铅条是略有起伏的深色金属条，交接处有焊点，窗框是深色的木或铅；不要塑料感，也不要夸张的光晕。\n\n文字只出现在一处：窗框下沿居中的一行小字，是从照片提炼的地点的全大写英文名。除此之外画面中不出现任何文字、字母、数字或标志。\n\n整体呈现真实摄影 × 彩色玻璃窗的视觉关系，明亮、通透、克制、有收藏感。避免写实的风景、过于碎的玻璃块、渐变、塑料感、卡通感、商业广告文案和模板感。",
+    "keywords": [
+      "彩色玻璃",
+      "铅条分割",
+      "照片改造",
+      "通透光影",
+      "杂志质感"
+    ],
+    "image": "images/prompt/2026-11-07T07-04-38-343Z-p4p6b8-0.png",
+    "images": [
+      "images/prompt/2026-11-07T07-04-38-343Z-p4p6b8-0.png",
+      "images/prompt/2026-11-07T07-04-38-343Z-p4p6b8-1.png",
+      "images/prompt/2026-11-07T07-04-38-343Z-p4p6b8-2.png",
+      "images/prompt/2026-11-07T07-04-38-343Z-p4p6b8-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "彩窗",
+    "savedAt": "2026-11-07T07:04:38.343Z"
+  },
+  {
+    "prompt_id": "2026-11-11T07-06-33-330Z-is9scc",
+    "wechat_title": "手绘线稿旅行插画，淡彩轻点缀",
+    "content": "Prompt:\nCreate a beautiful, vintage-inspired hand-drawn illustration of [COUNTRY / CITY / LANDMARK], designed as an elegant travel coloring-book artwork on a warm ivory background.\n\nTransform the destination into a charming miniature world using delicate black ink outlines, intricate architectural details, and a sophisticated minimalist composition.\n\nInclude its most iconic landmarks, majestic mountains, traditional buildings, local transportation, cultural objects, and recognizable elements of everyday life, all blending naturally into one harmonious scene.\n\n Artistic details:\n\nLandmarks: Feature the most recognizable architecture of the destination as the centerpiece.\n\nNature: Add mountains, flowing rivers, rolling hills, clouds, tiny trees, and delicate leaves inspired by the local landscape.\n\nCultural elements: Include traditional objects, local boats, pottery, lanterns, teapots, or other meaningful cultural details.\n\nLine art: Use clean, delicate black outlines with varied line thickness, intricate patterns, and beautiful hand-drawn imperfections.\n\nColor accents: Keep most of the illustration in elegant black-and-white line art, but fill selected elements with gorgeous colors—soft teal water, sage-green trees, warm terracotta rooftops, golden sunlight, and subtle pastel accents.\n\nComposition: Arrange the elements in layered horizontal sections, creating depth without making the artwork look crowded.\n\nBackground: Use a clean, warm ivory paper texture with plenty of negative space.\n\nAtmosphere: Peaceful, nostalgic, artistic, and full of cultural charm, like a page from a premium vintage travel sketchbook.\n\nTypography: Write the destination's name in elegant, hand-lettered typography at the bottom, with a tiny decorative flourish.\n\nStyle: Vintage travel illustration, architectural line drawing, minimalist coloring-book aesthetic, selective watercolor fills, fine black ink, handmade sketchbook texture, sophisticated editorial design.\n\nAspect ratio: 4:5 vertical composition. Ultra-detailed, crisp outlines, balanced layout, beautiful and instantly recognizable destination.",
+    "keywords": [
+      "黑白线稿",
+      "旅行手账",
+      "淡彩上色",
+      "建筑速写",
+      "象牙纸底"
+    ],
+    "image": "images/prompt/2026-11-11T07-06-33-330Z-is9scc-0.png",
+    "images": [
+      "images/prompt/2026-11-11T07-06-33-330Z-is9scc-0.png",
+      "images/prompt/2026-11-11T07-06-33-330Z-is9scc-1.png",
+      "images/prompt/2026-11-11T07-06-33-330Z-is9scc-2.png"
+    ],
+    "image_count": 3,
+    "reply_keyword": "线稿",
+    "savedAt": "2026-11-11T07:06:33.330Z"
+  },
+  {
+    "prompt_id": "2026-11-12T09-05-19-643Z-zrlgpt",
+    "wechat_title": "极简线描建筑旅行海报",
+    "content": "prompt:\nCreate an elegant, minimalist architectural travel poster featuring [LANDMARK NAME], [CITY], [COUNTRY].\n\n1. MAIN ARCHITECTURAL ILLUSTRATION\n\nFeature the selected landmark as the central subject, illustrated entirely with delicate, continuous-looking hand-drawn outline strokes.\n\nPreserve the landmark’s distinctive architectural silhouette and recognisable proportions.\nUse clean, thin, slightly imperfect hand-drawn lines.\nAvoid solid fills, heavy shading and excessive details.\nMake the architecture look like a beautiful architectural sketch.\n\n2. COLOUR PALETTE\n\nUse a sophisticated combination of 3–4 soft pastel colours for the outlines.\n\nChoose colours that complement the destination’s identity, architecture and cultural character.\n\nExamples:\n\nParis: Dusty rose, lavender, soft blue and muted coral.\nLondon: Navy, muted red, sage and pale gold.\nTokyo: Vermilion, jade, blush pink and warm grey.\nItaly: Terracotta, olive, dusty blue and ochre.\nGreece: Aegean blue, turquoise, muted coral and lavender.\n\nEvery destination must have its own unique colour combination.\n\n3. FLOATING TRAVEL DETAILS\n\nAdd a few delicate decorative elements around the landmark:\n\nA small flying aeroplane with a dotted curved flight trail.\nTiny birds, clouds or stars.\nMinimal geographical coordinates.\nA small travel stamp or destination symbol.\nSubtle architectural decorative details.\n\nKeep everything light, delicate and uncluttered.\n\n4. TYPOGRAPHIC ELEMENTS\n\nAdd the landmark’s name in elegant, refined typography.\n\nInclude:\n[LANDMARK NAME]\n[CITY, COUNTRY]\n\nPlace the destination name in a beautiful decorative ribbon banner near the bottom, leaving sufficient space for the illustration.\n\nUse sophisticated serif or handwritten typography.\n\n5. BACKGROUND & COMPOSITION\n\nUse a beautiful warm ivory or soft cream background with subtle handmade-paper texture.\n\nMaintain generous negative space around the central illustration.\n\nCreate a balanced composition with the landmark as the visual focus and small decorative elements positioned naturally around it.\n\n6. ARTISTIC DIRECTION\n\nMinimalist architectural line art, Scandinavian poster design, delicate pastel illustrations, elegant travel stationery, vintage sketchbook aesthetics and contemporary gallery-style graphic design.\n\n7. FINAL FINISH\n\nA timeless, sophisticated collectible travel poster that feels delicate, artistic and beautifully handcrafted.\n\nVertical 4:5 composition, crisp fine-line artwork, premium print quality, clean spacing and refined visual hierarchy.\n\nAvoid photorealism, 3D effects, heavy colours, thick outlines, crowded compositions and unnecessary decorative elements.",
+    "keywords": [
+      "极简线描",
+      "建筑速写",
+      "淡彩配色",
+      "旅行海报",
+      "手绘插画"
+    ],
+    "image": "images/prompt/2026-11-12T09-05-19-643Z-zrlgpt-0.png",
+    "images": [
+      "images/prompt/2026-11-12T09-05-19-643Z-zrlgpt-0.png",
+      "images/prompt/2026-11-12T09-05-19-643Z-zrlgpt-1.png",
+      "images/prompt/2026-11-12T09-05-19-643Z-zrlgpt-2.png",
+      "images/prompt/2026-11-12T09-05-19-643Z-zrlgpt-3.png"
+    ],
+    "image_count": 4,
+    "reply_keyword": "线描",
+    "savedAt": "2026-11-12T09:05:19.643Z"
   }
 ]
